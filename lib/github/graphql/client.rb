@@ -1,7 +1,7 @@
 require "github/graphql/client/version"
 
-module Github
-  module Graphql
+module GitHub
+  module GraphQL
     module Client
       # Your code goes here...
     end

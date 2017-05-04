@@ -5,7 +5,7 @@ require 'github/graphql/client/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "github-graphql-client"
-  spec.version       = Github::Graphql::Client::VERSION
+  spec.version       = GitHub::GraphQL::Client::VERSION
   spec.authors       = ["takkanm"]
   spec.email         = ["takkanm@gmail.com"]
 
