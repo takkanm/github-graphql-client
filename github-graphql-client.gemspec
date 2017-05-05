@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["takkanm"]
   spec.email         = ["takkanm@gmail.com"]
 
-  spec.summary       = %q{graphql client for GitHub}
-  spec.description   = %q{graphql client for GitHub}
+  spec.summary       = %q{ GraphQL client for GitHub GraphQL API}
+  spec.description   = %q{ GraphQL client for GitHub GraphQL API}
   spec.homepage      = "https://githbu.com/takkanm/githbu-graphql-client"
   spec.license       = "MIT"
 
